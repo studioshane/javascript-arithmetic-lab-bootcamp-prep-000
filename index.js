@@ -35,6 +35,11 @@ function makeInt(n){
   return parseInt("vindaloo");
   
 }
+
+function preserveInt(n){
+  return parseFloat(n);
+  
+}
   
   
 
