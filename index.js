@@ -27,12 +27,12 @@ function makeInt(n){
 }
 
 function makeInt(n){
-  return parseInt(n);
-  return parseInt("jabroni")
+  return parseInt("jabroni");
+  
 }
   
 
 
 function preserveDecimal(n){
-  
+  return parseFloat(n);
 }
