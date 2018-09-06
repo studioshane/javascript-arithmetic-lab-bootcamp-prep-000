@@ -27,9 +27,10 @@ function makeInt(n){
 }
 
 function makeInt(n){
-  return parseInt("jabroni");
+  return parseInt(n);
   
 }
+  
   
 
 
